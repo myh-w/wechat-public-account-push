@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '4a36aa4d9145e71576762e00c0deab3e',
 
   PROVINCE: '山西',
-  CITY: '晋中',
+  CITY: '长治',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o76wX6mmfuFIjDA3ONY-AU2wtjgE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Ef_N0BGRvzUvg8SJn_x29tIQ-BpIGpr6oR7K5Z7-Ao0',
+      useTemplateId: 'LtmNZAhGFnuC3H9zSB19eMwcyFb4rig0psxFyv8aNDc',
       //gwMNfXw2ata9464KLNfK7p_33ff5Mf63ofG0X-d3aD0
       //j4jgxtSwJ27lpnn-hLphFtcIKJftRHlORONRZbUxh4E
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
